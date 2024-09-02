@@ -5,10 +5,10 @@ import { QuicksandSans } from "../fonts/fonts";
 export default function Mainview() {
   return (
     <div
-      className={`${QuicksandSans.className} md:w-full w-[90vw]h-[400px] bg-[url('/main_bg.png')] bg-cover bg-center flex items-center justify-center`}
+      className={`${QuicksandSans.className} md:w-full w-[90vw] h-[400px] bg-[url('/main_bg.png')] bg-cover bg-center flex items-center justify-center`}
     >
-      <div className="fixed w-[140px] h-[35px] bg-white left-[10px] top-[10px]">
-        <div className="w-full h-full flex items-center justify-center">
+      <div className="fixed md:w-[1000px] w-full h-auto  top-[10px] border mx-auto">
+        <div className="w-[140px] h-[35px] flex items-center justify-center bg-white">
           <div className="w-[90%] h-[80%] relative">
             <Image src="/logo Onesta poziom 02_02.png" fill objectFit="cover" alt="logo"></Image>
           </div>
