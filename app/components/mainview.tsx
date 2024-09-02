@@ -7,7 +7,7 @@ export default function Mainview() {
     <div
       className={`${QuicksandSans.className} md:w-full w-[90vw] h-[400px] bg-[url('/main_bg.png')] bg-cover bg-center flex items-center justify-center`}
     >
-      <div className="fixed md:w-[1000px] w-full h-auto  top-[10px] border mx-auto">
+      <div className="fixed md:w-[1000px] w-full h-auto  top-[10px]  mx-auto">
         <div className="w-[140px] h-[35px] flex items-center justify-center bg-white">
           <div className="w-[90%] h-[80%] relative">
             <Image src="/logo Onesta poziom 02_02.png" fill objectFit="cover" alt="logo"></Image>
