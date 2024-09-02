@@ -15,7 +15,8 @@ export default function Whyinvestorstay() {
         <div className="leading-[20px]">
           Jest to rozwiązanie dla tych poszukujących, którzy rozumieją, że przeglądanie ofert to
           zbyt mało aby podjąć jakąkolwiek decyzję. Odczucia zbudowane na bazie zdjęć i wybranie tak
-          nieruchomości, często skutkuje zmianą tych odczuć gdy jest ona oglądana "na żywo".
+          nieruchomości, często skutkuje zmianą tych odczuć gdy jest ona oglądana &quot;na
+          żywo&quot;.
           <br></br>
           <br></br> Wizyty z nastawieniem na <strong>np. 2 wybrane nieruchomości</strong> stosunkowo
           często kończą się

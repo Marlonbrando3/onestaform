@@ -1,5 +1,6 @@
 import React from "react";
-import { QuicksandSans } from "../fonts/fonts";
+import { QuicksandSans } from "../fonts/fonts";import Whyinvestorstay from "./whyinvestorstay";
+Whyinvestorstay
 
 export default function Whyonesta() {
   return (
